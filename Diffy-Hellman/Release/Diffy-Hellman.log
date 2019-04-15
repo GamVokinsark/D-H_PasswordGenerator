@@ -1,0 +1,56 @@
+﻿Построение начато 13.08.2018 1:09:01.
+     1>Проект "D:\Прочее\Programing\image\Diffy-Hellman\Diffy-Hellman\Diffy-Hellman.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\Diffy-Hellman.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Diffy-Hellman.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp BigInteger.cc BigIntegerAlgorithms.cc BigIntegerUtils.cc BigUnsigned.cc BigUnsignedInABase.cc "Diffy-Hellman.cpp" /clr:nostdlib 
+         AssemblyInfo.cpp
+         BigInteger.cc
+         BigIntegerAlgorithms.cc
+         BigIntegerUtils.cc
+         BigUnsigned.cc
+         BigUnsignedInABase.cc
+         Diffy-Hellman.cpp
+     1>d:\прочее\programing\image\diffy-hellman\diffy-hellman\Form1.h(541): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\прочее\programing\image\diffy-hellman\diffy-hellman\Form1.h(550): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\прочее\programing\image\diffy-hellman\diffy-hellman\Form1.h(573): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\прочее\programing\image\diffy-hellman\diffy-hellman\Form1.h(583): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\прочее\programing\image\diffy-hellman\diffy-hellman\Form1.h(587): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\прочее\programing\image\diffy-hellman\diffy-hellman\Form1.h(591): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\прочее\programing\image\diffy-hellman\diffy-hellman\Form1.h(595): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\прочее\programing\image\diffy-hellman\diffy-hellman\Form1.h(604): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\прочее\programing\image\diffy-hellman\diffy-hellman\Form1.h(614): warning C4018: <: несоответствие типов со знаком и без знака
+         Создание кода...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Vokinsark\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         "C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Form1.resX,Release\DiffyHellman.Form1.resources
+         Обрабатывается файл ресурсов "Form1.resX", результирующий объект: "Release\DiffyHellman.Form1.resources".
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Прочее\Programing\image\Diffy-Hellman\Release\Diffy-Hellman.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\DiffyHellman.Form1.resources /MANIFEST /ManifestFile:"Release\Diffy-Hellman.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Прочее\Programing\image\Diffy-Hellman\Release\Diffy-Hellman.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\AssemblyInfo.obj
+         Release\BigInteger.obj
+         Release\BigIntegerAlgorithms.obj
+         Release\BigIntegerUtils.obj
+         Release\BigUnsigned.obj
+         Release\BigUnsignedInABase.obj
+         "Release\Diffy-Hellman.obj"
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Diffy-Hellman.vcxproj -> D:\Прочее\Programing\image\Diffy-Hellman\Release\Diffy-Hellman.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Прочее\Programing\image\Diffy-Hellman\Release\Diffy-Hellman.exe;#1" /manifest "Release\Diffy-Hellman.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Release\Diffy-Hellman.unsuccessfulbuild" удаляется.
+         Обращение к "Release\Diffy-Hellman.lastbuildstate".
+     1>Построение проекта "D:\Прочее\Programing\image\Diffy-Hellman\Diffy-Hellman\Diffy-Hellman.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:26.49
